@@ -30,7 +30,9 @@ BrainzLab is released under the MIT license. See the [LICENSE](https://github.co
 
 ## Connect with Us
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+- **Youtube**: [Youtube channel](https://www.youtube.com/@brainzlab)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/afmp94)
 - **Email**: [hello@brainzlab.co](mailto:hello@brainzlab.co)
 
 ## Support
